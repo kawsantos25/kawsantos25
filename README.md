@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu 🫀
 
-<!--
-**kawsantos25/kawsantos25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kawane Alve Dos Santos
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura].(https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utiliso esse espaço para minha gorganoizaçâo é compartinhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## você pode entrar em comtato comigo 🍒
+
+- kawane.santos20@escola.pr.gov.br 
+
+![image](https://github.com/user-attachments/assets/dcf68bef-748b-446e-86f4-581cd60a1d77)
+
+
+
+
+
